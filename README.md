@@ -7,7 +7,7 @@ A Frequency Dictionary of Contemporary American English is an invaluable tool fo
 
 [FREQUENCY dictionary and phrasal verbs (Google Sheets)](https://docs.google.com/spreadsheets/d/1QOCO_3DH1XbxScWYvuL-SgRllN3K1WlR4SdNVEj5wuk/edit?usp=sharing)
  
-[FREQUENCY dictionary (SQL)](https://drive.google.com/file/d/1weSOPC-cTZkT_qj9LyZRTQrAYNmdTyHR/view?usp=sharing) 
+[FREQUENCY dictionary (SQL)](https://drive.google.com/file/d/1s9RDoanGeXv6kjDqrHBBRJkaeW80OIJr/view?usp=sharing) 
 
 #### Word frequency
 
